@@ -1,4 +1,4 @@
 # Add your variables here
 first_number = 1 
 
-expect(second)
+second_number = 2 
